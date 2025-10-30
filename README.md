@@ -1,12 +1,19 @@
-# React + Vite
+Gemini Clone (React + Tailwind + API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧠 Overview
+This project is a Gemini AI Clone built using React (Vite) and Tailwind CSS.
+It features a dynamic color-changing text effect, API calling, and a clean, modern UI inspired by Google’s Gemini interface.
 
-Currently, two official plugins are available:
+🎨 Features
+🌈 Live Color-Changing Text — animated gradient text that smoothly transitions colors.
+💬 API Integration — connects with an AI API (or any placeholder API) to fetch and display live responses.
+🧩 Different UI Styling — redesigned layout with Tailwind CSS for a fresh and modern Gemini-like look.
+📱 Responsive Design — adapts perfectly on mobile, tablet, and desktop.
+⚡ Fast Build with Vite — super quick development and preview.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧰 Tech Stack
+React (Vite)
+Tailwind CSS
+Fetch API / Axios
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project Live at this link:-  https://shadab3105-coder.github.io/GEMINI_AI-CLONE/
