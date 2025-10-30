@@ -1,0 +1,5 @@
+/* put component-specific styles only */
+.myDiv {
+  padding: 20px;
+}
+@import "tailwindcss";

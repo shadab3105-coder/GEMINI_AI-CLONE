@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+/* @tailwind base;
+@tailwind components; */
+@tailwind utilities;
+
+/* Custom animation for icons */
+.spin-once {
+  display: inline-block;
+  transition: transform 0.3s linear;
+}
+.group:hover .spin-once {
+  transform: rotate(90deg);
+}
+
+/* Gradient animation */
+@keyframes gradient-move {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-gradient-move {
+  background-size: 200% 200%;
+  animation: gradient-move 3s linear infinite;
+}
+
+/* Default background */
+body {
+  background-color: black;
+}
