@@ -28,9 +28,11 @@ Tailwind CSS
 
 Fetch API / Axios**
 
+---
+
 Project Live at this link:-  https://shadab3105-coder.github.io/GEMINI_AI-CLONE/
 
-
+---
 Few Screenshots below:-
 
 <img width="1918" height="869" alt="image" src="https://github.com/user-attachments/assets/3877e0cb-0de8-443d-85cc-9660140e93f2" />
